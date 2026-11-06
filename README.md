@@ -1,5 +1,11 @@
 # THORA — Uma voz. Múltiplos canais.
 
+[![Demo online](https://img.shields.io/badge/Demo-online-B2ED84?style=for-the-badge&logo=vercel&logoColor=black)](https://thora-taranis-black.vercel.app/)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ONE G11](https://img.shields.io/badge/ONE_G11-AI_for_Business-6F3D85?style=for-the-badge)
+
 **Assistente de IA para Marketing e Conteúdo da Taranis Black.**
 
 Case acadêmico que conecta estratégia de negócios, identidade verbal e inteligência artificial generativa à produção de conteúdo multicanal, com supervisão humana.
